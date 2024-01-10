@@ -6,7 +6,7 @@
     if (mySrc === "img2.jpg") {
       myImage.setAttribute("src", "IMG_3227.jpg");
     } else {
-      myImage.setAttribute("src", "img2.jpg");
+      myImage.setAttribute("src", "img2.JPG");
     }
   };  
 
