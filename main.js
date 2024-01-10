@@ -3,7 +3,7 @@
 
   myImage.onclick = () => {
     const mySrc = myImage.getAttribute("src");
-    if (mySrc === "img2.jpg") {
+    if (mySrc === "img2.JPG") {
       myImage.setAttribute("src", "IMG_3227.jpg");
     } else {
       myImage.setAttribute("src", "img2.JPG");
